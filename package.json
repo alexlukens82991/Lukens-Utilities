@@ -1,0 +1,24 @@
+{
+  "name": "com.lukens.utilities",
+  "version": "1.2.3",
+  "displayName": "Lukens Utilities",
+  "description": "Basic utilities for any new project.",
+  "unity": "2021.3",
+  "unityRelease": "0b5",
+  "documentationUrl": "https://github.com/alexlukens82991/Lukens-Utilities",
+  "changelogUrl": "https://github.com/alexlukens82991/Lukens-Utilities",
+  "licensesUrl": "https://github.com/alexlukens82991/Lukens-Utilities",
+  "dependencies": {
+
+ },
+ "keywords": [
+    "keyword1",
+    "keyword2",
+    "keyword3"
+  ],
+  "author": {
+    "name": "Alex Lukens",
+    "email": "alexlukens@outlook.com",
+    "url": "https://github.com/alexlukens82991/Lukens-Utilities"
+  }
+}
